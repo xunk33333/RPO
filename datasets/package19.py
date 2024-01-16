@@ -9,9 +9,9 @@ from .dtd import DescribableTextures as DTD
 
 
 NEW_CNAMES = {
-    "DFN": "DFN",
-    "QFP": "QFP",
-    "WLCSP": "WLCSP",
+"DFN":"dual flat package",
+    "QFP":"quad flat package",
+    "WCSP":"wafer chip scale package",
 }
 
 
