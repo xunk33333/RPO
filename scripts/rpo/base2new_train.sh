@@ -3,7 +3,7 @@
 #cd ../..
 
 # custom config
-#DATA=/hub_data2/intern/data/
+DATA=DATA
 TRAINER=RPO
 
 DATASET=$1
